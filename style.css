@@ -877,6 +877,9 @@
     border-radius: 8px;
     opacity: 0.2px;
     border: none;
+    outline: none;
+    color: #FFFFFF;
+    /* text-transform: uppercase; */
 }
 .footersend{
     position: relative;
